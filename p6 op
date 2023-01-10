@@ -1,0 +1,22 @@
+Enter rule: (~Qv  qv~pvr)^(~q6p)^q
+Enter the Query: r
+Truth Table Reference
+kb alpha
+**********
+False True
+----------
+False False
+----------
+False True
+----------
+False False
+----------
+False True
+----------
+False False
+----------
+False True
+----------
+False False
+----------
+Knowledge Base entails query
